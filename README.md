@@ -116,13 +116,7 @@ Crowd-density tests and a Nav2-only baseline comparison: _to be added._
 - The decision logic is rule-based. Learned crowd prediction or natural-language orders are future work.
 - The reroute step re-sends the goal to force a replan. A custom Nav2 cost layer for crowds would be cleaner.
 
-## Citation
 
-[Add your paper or talk reference here.]
-
-## License
-
-[Choose a license, for example Apache-2.0 or MIT, and add a LICENSE file. `package.xml` currently says Apache-2.0.]
 
 ## Author
 
